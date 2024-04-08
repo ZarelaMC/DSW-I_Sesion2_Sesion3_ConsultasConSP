@@ -256,3 +256,4 @@ C:\Users\HP\Downloads\CIBERTEC_CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I
 C:\Users\HP\Downloads\CIBERTEC_CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I\Sesión 2\Ejercicios_VS\Listado_Productos_Clientes\Listado_ProdClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\HP\Downloads\CIBERTEC_CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I\Sesión 2\Ejercicios_VS\Listado_Productos_Clientes\Listado_ProdClient\obj\Debug\net6.0\Listado_ProdClient.csproj.AssemblyReference.cache
 C:\Users\HP\Downloads\CIBERTEC_CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I\Sesión 2\Ejercicios_VS\Listado_Productos_Clientes\Listado_ProdClient\obj\Debug\net6.0\Listado_.0501AE10.Up2Date
+C:\Users\HP\Downloads\CIBERTEC_CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I\Sesión 2\Ejercicios_VS\Listado_Productos_Clientes\Listado_ProdClient\obj\Debug\net6.0\Listado_ProdClient.sourcelink.json

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Listado_ProdClient.Models.Vendedor>
+
+@{
+    ViewData["Title"] = "listaVendedores";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Lista de Vendedores</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Vendedores
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.id_ven)</th>
+                    <th>@Html.DisplayNameFor(model => model.ven)</th>
+                    <th>@Html.DisplayNameFor(model => model.sue_ven)</th>
+                    <th>@Html.DisplayNameFor(model => model.fec_ing)</th>
+                    <th>@Html.DisplayNameFor(model => model.nom_dis)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model) {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.id_ven)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ven)</td>
+                        <td>@item.sue_ven.ToString("0.00")</td>
+                        <td>@item.fec_ing.ToShortDateString()</td>
+                        <td>@Html.DisplayFor(modelItem => item.nom_dis)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

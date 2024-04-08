@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Listado_ProdClient.Models.Cliente>
+
+@{
+    ViewData["Title"] = "listaClientes";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Lista de Clientes</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Clientes
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.ide_cli)</th>
+                    <th>@Html.DisplayNameFor(model => model.rso_cli)</th>
+                    <th>@Html.DisplayNameFor(model => model.dir_cli)</th>
+                    <th>@Html.DisplayNameFor(model => model.tlf_cli)</th>
+                    <th>@Html.DisplayNameFor(model => model.ruc_cli)</th>
+                    <th>@Html.DisplayNameFor(model => model.nom_dis)</th>
+                    <th>@Html.DisplayNameFor(model => model.fec_reg)</th>
+                    <th>@Html.DisplayNameFor(model => model.con_cli)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model) {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.ide_cli)</td>
+                    <td>@Html.DisplayFor(modelItem => item.rso_cli)</td>
+                    <td>@Html.DisplayFor(modelItem => item.dir_cli)</td>
+                    <td>@Html.DisplayFor(modelItem => item.tlf_cli)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ruc_cli)</td>
+                    <td>@Html.DisplayFor(modelItem => item.nom_dis)</td>
+                    <td>@item.fec_reg.ToShortDateString()</td>
+                    <td>@Html.DisplayFor(modelItem => item.con_cli)</td>
+                </tr>
+}
+            </tbody>
+        </table>
+    </div>
+</div>

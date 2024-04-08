@@ -40,7 +40,7 @@
                         <tr>
                             <td>@Html.DisplayFor(modelItem => item.ide_pro)</td>
                             <td>@Html.DisplayFor(modelItem => item.des_pro)</td>
-                            <td>@Html.DisplayFor(modelItem => item.pre_pro)</td>
+                            <td>@item.pre_pro.ToString("0.00")</td>
                             <td>@Html.DisplayFor(modelItem => item.sac_pro)</td>
                             <td>@Html.DisplayFor(modelItem => item.smi_pro)5</td>
                             <td>@Html.DisplayFor(modelItem => item.uni_pro)</td>
@@ -49,7 +49,6 @@
                 </tbody>
             </table>
         </div>
-    </div>
 </div> 
 
 <table class="table">
@@ -86,7 +85,7 @@
                 @Html.DisplayFor(modelItem => item.des_pro)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.pre_pro)
+                @item.pre_pro.ToString("0.00")
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.sac_pro)
