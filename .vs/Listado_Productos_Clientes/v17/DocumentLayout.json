@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\producto\\listadotablaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\producto\\listadotablaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "listadoTablaProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:28:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Producto.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:36:52.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Program.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Program.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:32:39.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\appsettings.json",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\appsettings.json",
+              "RelativeToolTip": "Listado_ProdClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T20:58:53.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwIIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T21:14:06.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T21:12:38.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T01:33:15.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
