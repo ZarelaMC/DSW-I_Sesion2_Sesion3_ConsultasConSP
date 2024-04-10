@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listado_ProdClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf672f2526279c3214b24e984f7e4109e6f136b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ac6791ed8041c79303b7c684d3e9aac6a145a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listado_ProdClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listado_ProdClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

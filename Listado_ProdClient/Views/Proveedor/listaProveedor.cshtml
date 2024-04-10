@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Listado_ProdClient.Models.Proveedor>
+
+@{
+    ViewData["Title"] = "listaProveedor";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Lista de Proveedores</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Proveedores
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.ide_prv)</th>
+                    <th>@Html.DisplayNameFor(model => model.raz_soc_prv)</th>
+                    <th>@Html.DisplayNameFor(model => model.dir_prv)</th>
+                    <th>@Html.DisplayNameFor(model => model.tel_prv)</th>
+                    <th>@Html.DisplayNameFor(model => model.nom_dis)</th>
+                    <th>@Html.DisplayNameFor(model => model.rep_ven)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model) {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.ide_prv)</td>
+                            <td>@Html.DisplayFor(modelItem => item.raz_soc_prv)</td>
+                            <td>@Html.DisplayFor(modelItem => item.dir_prv)</td>
+                            <td>@Html.DisplayFor(modelItem => item.tel_prv)</td>
+                            <td>@Html.DisplayFor(modelItem => item.nom_dis)</td>
+                            <td>@Html.DisplayFor(modelItem => item.rep_ven)</td>
+                        </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

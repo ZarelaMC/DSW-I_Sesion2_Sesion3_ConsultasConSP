@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\proveedor\\listaproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\proveedor\\listaproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\vendedor\\listavendedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\vendedor\\listavendedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\views\\producto\\listadotablaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\views\\cliente\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|solutionrelative:listado_prodclient\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64CF1DAE-E680-426A-8C02-60CB8ABF54D2}|Listado_ProdClient\\Listado_ProdClient.csproj|c:\\users\\hp\\downloads\\cibertec_ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 2\\ejercicios_vs\\listado_productos_clientes\\listado_prodclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -67,89 +79,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LayoutPrincipal.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeToolTip": "Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Title": "listaProveedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Proveedor\\listaProveedor.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Proveedor\\listaProveedor.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Proveedor\\listaProveedor.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Proveedor\\listaProveedor.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T21:14:06.951Z",
+              "WhenOpened": "2024-04-10T00:30:28.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "listaVendedores.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Vendedor\\listaVendedores.cshtml",
               "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Vendedor\\listaVendedores.cshtml",
               "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Vendedor\\listaVendedores.cshtml",
               "RelativeToolTip": "Listado_ProdClient\\Views\\Vendedor\\listaVendedores.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-08T18:19:39.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Cliente.cs",
-              "RelativeToolTip": "Listado_ProdClient\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:59:00.04Z"
+              "WhenOpened": "2024-04-10T00:10:30.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Listado_ProdClient\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Listado_ProdClient\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T15:17:32.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "listadoTablaProdutos.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
-              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
-              "RelativeToolTip": "Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T03:28:37.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Vendedor.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Vendedor.cs",
-              "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Vendedor.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Vendedor.cs",
-              "RelativeToolTip": "Listado_ProdClient\\Models\\Vendedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:46:23.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "VendedorController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\VendedorController.cs",
               "RelativeDocumentMoniker": "Listado_ProdClient\\Controllers\\VendedorController.cs",
               "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\VendedorController.cs",
               "RelativeToolTip": "Listado_ProdClient\\Controllers\\VendedorController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAowDEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T18:00:45.263Z",
               "EditorCaption": ""
@@ -157,15 +131,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "listaClientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
-              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
-              "RelativeToolTip": "Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T15:40:59.66Z",
+              "WhenOpened": "2024-04-07T21:14:06.951Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T23:54:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Cliente.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:59:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:17:32.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "listadoTablaProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:28:37.981Z"
             },
             {
               "$type": "Document",
@@ -175,13 +199,38 @@
               "RelativeDocumentMoniker": "Listado_ProdClient\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Listado_ProdClient\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowC8AAAAvAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:12:38.474Z"
+              "WhenOpened": "2024-04-07T21:12:38.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Vendedor.cs",
+              "RelativeToolTip": "Listado_ProdClient\\Models\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:46:23.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "listaClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
+              "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
+              "RelativeToolTip": "Listado_ProdClient\\Views\\Cliente\\listaClientes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:40:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\appsettings.json",
               "RelativeDocumentMoniker": "Listado_ProdClient\\appsettings.json",
@@ -193,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Listado_ProdClient\\Models\\Producto.cs",
@@ -205,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Program.cs",
               "RelativeDocumentMoniker": "Listado_ProdClient\\Program.cs",
@@ -217,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CIBERTEC_CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 2\\Ejercicios_VS\\Listado_Productos_Clientes\\Listado_ProdClient\\Views\\Producto\\Index.cshtml",
               "RelativeDocumentMoniker": "Listado_ProdClient\\Views\\Producto\\Index.cshtml",
