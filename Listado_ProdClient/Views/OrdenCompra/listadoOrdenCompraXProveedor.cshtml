@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Listado_ProdClient.Models.OrdenCompra>
+
+@{
+    ViewData["Title"] = "listadoOrdenCompraXProveedor";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Listado de Ordenes de Compra según Proveedor</h1>
+
+@using (Html.BeginForm())
+{
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <div class="form-floating mb-3 mb-md-0">
+                <input class="form-control" id="inputFirstName" type="text"
+                       name="prv" value="@ViewBag.valorIngresado" />
+                <label for="inputFirstName">Proveedor</label>
+            </div>
+        </div>
+    </div>
+    <div class="mt-4 mb-0">
+        <div class="d-grid"><input class="btn btn-primary" type="submit" value="FILTRAR" /></div>
+    </div>
+}
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Ordenes de Compra según Proveedor
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.num_oco)</th>
+                    <th>@Html.DisplayNameFor(model => model.fec_oco)</th>
+                    <th>@Html.DisplayNameFor(model => model.proveedor)</th>
+                    <th>@Html.DisplayNameFor(model => model.fec_ate)</th>
+                </tr>
+            </thead>
+            <tbody>
+        @foreach (var item in Model) {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.num_oco)</td>
+                    <td>@item.fec_oco.ToShortDateString()</td>
+                    <td>@Html.DisplayFor(modelItem => item.proveedor)</td>
+                    <td>@item.fec_ate.ToShortDateString()</td>
+                </tr>
+        }
+            </tbody>
+        </table>
+    </div>
+</div>

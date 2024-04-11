@@ -4,6 +4,9 @@
 using Microsoft.Data;
 using Microsoft.Data.SqlClient;
 using Listado_ProdClient.Models;
+using System.Text.RegularExpressions;
+using Microsoft.IdentityModel.Tokens;
+using System.ComponentModel.DataAnnotations;
 
 namespace Listado_ProdClient.Controllers
 {
@@ -62,6 +65,40 @@ namespace Listado_ProdClient.Controllers
             return lProductos;
         }
 
+
+        /******* SESIÓN 3: Listado de Productos filtrado por la inicial de su descripción  *********/
+        public List<Producto> listProductosXDescrip(string i_descrip)
+        {
+            List<Producto> listProdDescr = new List<Producto>();
+
+            SqlConnection cn = new SqlConnection(Configuration["ConnectionStrings:cn"]);
+
+            cn.Open();
+
+            SqlCommand cmd = new SqlCommand("SP_LISTAR_PRODUCTOSxDESCRIPCION", cn);
+            cmd.CommandType = System.Data.CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@i_descrip", i_descrip);
+
+            SqlDataReader dr = cmd.ExecuteReader();
+
+            while (dr.Read())
+            {
+                listProdDescr.Add(new Producto()
+                {
+                    ide_pro = int.Parse(dr[0].ToString()),
+                    des_pro = dr[1].ToString(),
+                    pre_pro = Double.Parse(dr[2].ToString()),
+                    sac_pro = int.Parse(dr[3].ToString()),
+                    smi_pro = int.Parse(dr[4].ToString()),
+                    uni_pro = dr[5].ToString()
+                });
+            }
+
+            cn.Close();
+
+            return listProdDescr;
+        }
+
         public IActionResult listadoTablaProdutos()
         {
             return View(listaProducto());
@@ -69,6 +106,19 @@ namespace Listado_ProdClient.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+        public IActionResult listadoProductosXDescripcion(string i_descrip = "")
+        {
+            //acceder al método estático IsNullOrEmpty() de la clase string para validar el parámetro
+            if (string.IsNullOrEmpty(i_descrip))
+            {
+                // Si el valor no cumple con los criterios, asigna un valor predeterminado
+                i_descrip = "";
+            }
+            
+
+            ViewBag.i_descrip = i_descrip;
+            return View(listProductosXDescrip(i_descrip));
         }
     }
 }

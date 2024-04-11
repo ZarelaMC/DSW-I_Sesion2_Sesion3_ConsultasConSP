@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Listado_ProdClient.Models.Producto>
+
+@{
+    ViewData["Title"] = "listadoProductosXDescripcion";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Listado de Productos según descripción</h1>
+
+<form>
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <div class="form-floating mb-3 mb-md-0">
+                <input class="form-control" id="inputFirstName" type="text"
+                       name="i_descrip" value="@ViewBag.i_descrip" />
+                <label for="inputFirstName">Descripción</label>
+            </div>
+        </div>
+    </div>
+    <div class="mt-4 mb-0">
+        <div class="d-grid"><input class="btn btn-primary" type="submit" value="FILTRAR" /></div>
+    </div>
+</form>
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Productos según descripción
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.ide_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.des_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.pre_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.sac_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.smi_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.uni_pro)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.ide_pro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.des_pro)</td>
+                        <td>@item.pre_pro.ToString("0.00")</td>
+                        <td>@Html.DisplayFor(modelItem => item.sac_pro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.smi_pro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.uni_pro)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
