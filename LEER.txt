@@ -1,0 +1,10 @@
+IConfiguration es una interfaz que permite acceder al archivo de configuración de la aplicación web
+
+
+propiedad de sólo lectura es una variable cuyo valor es incambiable en el programa
+
+se declara una propiedad de sólo lectura que pueda acceder a las funciones de la interfaz IConfiguration y con ello para que pueda acceder al archivo de configuración de la aplicación donde se encuentra la cadena de conexión a la BD,
+
+ luego en el constructor se pasa como dependencia (parámetro) un objeto del tipo interfaz IConfiguration, dentro del constructor, se establece la relación entre la propiedad de solo lectura `Configuration` y la dependencia del constructor `iConfig`. Esto se hace asignando el valor de `iConfig` a la propiedad `Configuration`. De esta manera, el controlador tiene acceso a la instancia de `IConfiguration` (Configuration) y puede utilizar sus funciones para acceder a la configuración de la aplicación, como la cadena de conexión a la base de datos.
+
+En resumen, el controlador `FacturaController` utiliza la inyección de dependencias para recibir una dependencia `IConfiguration` a través del constructor. Esta dependencia se asigna a la propiedad `Configuration`, lo que permite al controlador acceder a las funciones de la interfaz `IConfiguration` y utilizarlas para acceder a la configuración de la aplicación, como la cadena de conexión a la base de datos.
